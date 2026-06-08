@@ -1,5 +1,5 @@
-# MAIN SYSTEM DEVELOPMENT STOPPED!
-# DEVELOPING GRAPHICAL INSTALLER ON UNITY...
+# System News
+Due to my inactivity over the past year, this system is no longer maintained. I'm developing a new system (more like a command interpreter), also called MaxMineOS. This is the last change to this repository, other than the name change to LegacyOS.
 # MaxMineOS
 MaxMineOS! Written on Python!
 # About
